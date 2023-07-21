@@ -1,0 +1,36 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "yaml.schemas": {
+        "file:///c%3A/Users/p5423/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 1,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "jupyter.askForKernelRestart": false,
+    "sonarlint.ls.javaHome": "c:\\Users\\p5423\\.vscode\\extensions\\sonarsource.sonarlint_managed-jre\\jre\\jdk-11.0.14+9-jre",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "sonarlint.rules": {
+        "python:S1542": {
+            "level": "off"
+        }
+    },
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "git.confirmSync": false,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.pythonPath": "C:\\Users\\p5423\\Anaconda3\\envs\\DataViz\\python.exe",
+    "terminal.activateEnvironment": true
+}
